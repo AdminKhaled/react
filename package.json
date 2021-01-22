@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/khaledseleem0/react2.git/",
+  "homepage": "https://github.com/AdminKhaled/react/",
   "name": "secondreact",
   "version": "0.1.0",
   "private": true,
@@ -22,8 +22,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
